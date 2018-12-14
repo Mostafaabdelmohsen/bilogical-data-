@@ -1,0 +1,231 @@
+# depslib dependency file v1.0
+1544724238 source:d:\c++ programms\second year\assignment 4\main.cpp
+	<iostream>
+	"Sequence.h"
+	"DNA.h"
+	"RNA.h"
+	"CodonsTable.h"
+	"Protein.h"
+	<string>
+	<cstring>
+	<algorithm>
+
+1544726166 source:d:\c++ programms\second year\assignment 4\protein.cpp
+	"Protein.h"
+	<fstream>
+	"CodonsTable.h"
+	"RNA.h"
+	<string>
+	<cstring>
+
+1544711175 d:\c++ programms\second year\assignment 4\protein.h
+	"DNA.h"
+	"RNA.h"
+	"CodonsTable.h"
+	<fstream>
+	<string>
+	<cstring>
+
+1544717795 d:\c++ programms\second year\assignment 4\dna.h
+	"RNA.h"
+	"Sequence.h"
+	<iostream>
+
+1544460148 d:\c++ programms\second year\assignment 4\rna.h
+	"Sequence.h"
+	"DNA.h"
+	"CodonsTable.h"
+	"Protein.h"
+	"RNA.h"
+	<iostream>
+
+1544722513 d:\c++ programms\second year\assignment 4\sequence.h
+	<iostream>
+	"CodonsTable.h"
+	<algorithm>
+
+1544525280 d:\c++ programms\second year\assignment 4\codonstable.h
+	"Sequence.h"
+	<string>
+	<cstring>
+	<iostream>
+	<fstream>
+
+1544725189 source:d:\c++ programms\second year\assignment 4\dna.cpp
+	"DNA.h"
+	"Sequence.h"
+	"RNA.h"
+	<iostream>
+
+1544726048 source:d:\c++ programms\second year\assignment 4\rna.cpp
+	"RNA.h"
+	<iostream>
+	<cstring>
+	"Sequence.h"
+	"DNA.h"
+	"RNA.h"
+	"CodonsTable.h"
+	"Protein.h"
+
+1544724517 source:d:\c++ programms\second year\assignment 4\sequence.cpp
+	"Sequence.h"
+	<iostream>
+	"RNA.h"
+	"DNA.h"
+	<algorithm>
+
+1544725427 source:d:\c++ programms\second year\assignment 4\codonstable.cpp
+	"CodonsTable.h"
+	<string>
+	<cstring>
+	<fstream>
+	<iostream>
+
+1544525280 source:d:\c++ programms\second year\assignment 4\codonstable.h
+	"Sequence.h"
+	<string>
+	<cstring>
+	<iostream>
+	<fstream>
+
+1544717795 source:d:\c++ programms\second year\assignment 4\dna.h
+	"RNA.h"
+	"Sequence.h"
+	<iostream>
+
+1544711175 source:d:\c++ programms\second year\assignment 4\protein.h
+	"DNA.h"
+	"RNA.h"
+	"CodonsTable.h"
+	<fstream>
+	<string>
+	<cstring>
+
+1544460148 source:d:\c++ programms\second year\assignment 4\rna.h
+	"Sequence.h"
+	"DNA.h"
+	"CodonsTable.h"
+	"Protein.h"
+	"RNA.h"
+	<iostream>
+
+1544722513 source:d:\c++ programms\second year\assignment 4\sequence.h
+	<iostream>
+	"CodonsTable.h"
+	<algorithm>
+
+1544725427 source:g:\college\programming\assignment 4\codonstable.cpp
+	"CodonsTable.h"
+	<string>
+	<cstring>
+	<fstream>
+	<iostream>
+
+1544525280 g:\college\programming\assignment 4\codonstable.h
+	"Sequence.h"
+	<string>
+	<cstring>
+	<iostream>
+	<fstream>
+
+1544722513 g:\college\programming\assignment 4\sequence.h
+	<iostream>
+	"CodonsTable.h"
+	<algorithm>
+
+1544525280 source:g:\college\programming\assignment 4\codonstable.h
+	"Sequence.h"
+	<string>
+	<cstring>
+	<iostream>
+	<fstream>
+
+1544799001 source:g:\college\programming\assignment 4\dna.cpp
+	"DNA.h"
+	"Sequence.h"
+	"RNA.h"
+	<iostream>
+
+1544796892 g:\college\programming\assignment 4\dna.h
+	"RNA.h"
+	"Sequence.h"
+	<iostream>
+
+1544800204 g:\college\programming\assignment 4\rna.h
+	"Sequence.h"
+	"DNA.h"
+	"CodonsTable.h"
+	"Protein.h"
+	"RNA.h"
+	<iostream>
+
+1544801263 g:\college\programming\assignment 4\protein.h
+	"DNA.h"
+	"RNA.h"
+	"CodonsTable.h"
+	<fstream>
+	<string>
+	<cstring>
+
+1544796892 source:g:\college\programming\assignment 4\dna.h
+	"RNA.h"
+	"Sequence.h"
+	<iostream>
+
+1544724238 source:g:\college\programming\assignment 4\main.cpp
+	<iostream>
+	"Sequence.h"
+	"DNA.h"
+	"RNA.h"
+	"CodonsTable.h"
+	"Protein.h"
+	<string>
+	<cstring>
+	<algorithm>
+
+1544726166 source:g:\college\programming\assignment 4\protein.cpp
+	"Protein.h"
+	<fstream>
+	"CodonsTable.h"
+	"RNA.h"
+	<string>
+	<cstring>
+
+1544711175 source:g:\college\programming\assignment 4\protein.h
+	"DNA.h"
+	"RNA.h"
+	"CodonsTable.h"
+	<fstream>
+	<string>
+	<cstring>
+
+1544726048 source:g:\college\programming\assignment 4\rna.cpp
+	"RNA.h"
+	<iostream>
+	<cstring>
+	"Sequence.h"
+	"DNA.h"
+	"RNA.h"
+	"CodonsTable.h"
+	"Protein.h"
+
+1544460148 source:g:\college\programming\assignment 4\rna.h
+	"Sequence.h"
+	"DNA.h"
+	"CodonsTable.h"
+	"Protein.h"
+	"RNA.h"
+	<iostream>
+
+1544724517 source:g:\college\programming\assignment 4\sequence.cpp
+	"Sequence.h"
+	<iostream>
+	"RNA.h"
+	"DNA.h"
+	<algorithm>
+
+1544722513 source:g:\college\programming\assignment 4\sequence.h
+	<iostream>
+	"CodonsTable.h"
+	<algorithm>
+
